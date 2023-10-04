@@ -1,1 +1,2 @@
-jenkins --version
+#!bin/bash
+Date
